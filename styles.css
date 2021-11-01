@@ -1,0 +1,66 @@
+* {
+  padding: 5px;
+  margin: 5px;
+}
+
+button {
+  padding: 1rem;
+}
+
+
+.container {
+  margin: auto;
+}
+
+.shell {
+  background: linear-gradient(to right, gray, white);
+  border: solid black 1px;
+  margin: auto;
+  max-width: 30rem;
+}
+
+.display {
+  font-size: 30px;
+  border: solid 1px black;
+  height: 30px;
+  width:90%;
+  height: 20%;
+  background-color: lightgray;
+  margin-left: 1.5rem;
+}
+
+.operatorSignifier {
+  position: inherit;
+  font-size: 20px;
+}
+
+.output {
+  font-size: 20px;
+  width:94%;
+  height: 20px;
+  margin-bottom: 15px;
+}
+
+.numbers {
+  background-color: red;
+  color: white;
+  font-weight: bolder;
+  margin-left: 1.5px;
+  margin-right: 1.5px;
+
+}
+
+.operations {
+  font-weight: bold;
+  background-color: orange;
+  margin-left: 1.5px;
+  margin-right: 1.5px;
+}
+
+.functions {
+  background-color: black;
+  color: white;
+  font-weight: bolder;
+  margin-left: 5px;
+  margin-right: 5px;
+}
